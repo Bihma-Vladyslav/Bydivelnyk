@@ -1,0 +1,10 @@
+D:\Visual Studio расположение\source\repos\Bydivelnyk\Bydivelnyk\bin\Debug\Bydivelnyk.exe.config
+D:\Visual Studio расположение\source\repos\Bydivelnyk\Bydivelnyk\bin\Debug\Bydivelnyk.exe
+D:\Visual Studio расположение\source\repos\Bydivelnyk\Bydivelnyk\bin\Debug\Bydivelnyk.pdb
+D:\Visual Studio расположение\source\repos\Bydivelnyk\Bydivelnyk\obj\Debug\Bydivelnyk.csproj.AssemblyReference.cache
+D:\Visual Studio расположение\source\repos\Bydivelnyk\Bydivelnyk\obj\Debug\Bydivelnyk.Form1.resources
+D:\Visual Studio расположение\source\repos\Bydivelnyk\Bydivelnyk\obj\Debug\Bydivelnyk.Properties.Resources.resources
+D:\Visual Studio расположение\source\repos\Bydivelnyk\Bydivelnyk\obj\Debug\Bydivelnyk.csproj.GenerateResource.cache
+D:\Visual Studio расположение\source\repos\Bydivelnyk\Bydivelnyk\obj\Debug\Bydivelnyk.csproj.CoreCompileInputs.cache
+D:\Visual Studio расположение\source\repos\Bydivelnyk\Bydivelnyk\obj\Debug\Bydivelnyk.exe
+D:\Visual Studio расположение\source\repos\Bydivelnyk\Bydivelnyk\obj\Debug\Bydivelnyk.pdb
